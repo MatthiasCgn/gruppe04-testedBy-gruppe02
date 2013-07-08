@@ -1,6 +1,6 @@
 gruppe04-testedBy-gruppe02
 ==========================
-Bitte zur Testverfolgung die Issues nutzen.
+Bitte zur Testdokumentation die Issues nutzen.
 
 ##Registrieren##
 Damit das System genutzt werden kann, bitte unter http://pwc-crm.de/Mitarbeiter/Registrieren registrieren - wir schalten euch dann so schnell wie möglich frei.
